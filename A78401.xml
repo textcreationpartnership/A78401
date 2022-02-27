@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Excellencies quarters, of a discovery in Sir Thomas Fairfax his army, the enemies thereof; and a further resolution of the Officers and souldiers for the better peace and safety of the kingdome. With a conference between His Excellency, and the Marquesse of VVorcester. Also, a full relation of all the whole proceedings at Ragland Castle; and a perfect list of the names of the colonels, majors, captains, lieutenants, and other officers therein, viz. the Marquesse of Worcester, the Lord Charles, the Countesse of Glamorgan, the Lady Iones, Sir Philip Iones, Doctor Bayley, Commissary Gwillam, ... Printed by the originall copies, and published according to order of Parliament.</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78401</idno>
+            <idno type="STC">Wing C157</idno>
+            <idno type="STC">Thomason E351_13</idno>
+            <idno type="STC">ESTC R201071</idno>
+            <idno type="EEBO-CITATION">99861638</idno>
+            <idno type="PROQUEST">99861638</idno>
+            <idno type="VID">159854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159854)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E351[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Excellencies quarters, of a discovery in Sir Thomas Fairfax his army, the enemies thereof; and a further resolution of the Officers and souldiers for the better peace and safety of the kingdome. With a conference between His Excellency, and the Marquesse of VVorcester. Also, a full relation of all the whole proceedings at Ragland Castle; and a perfect list of the names of the colonels, majors, captains, lieutenants, and other officers therein, viz. the Marquesse of Worcester, the Lord Charles, the Countesse of Glamorgan, the Lady Iones, Sir Philip Iones, Doctor Bayley, Commissary Gwillam, ... Printed by the originall copies, and published according to order of Parliament.</title>
+                  <author>W. C.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>August 27. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3r: VV.C.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Worcester, Henry Somerset, --  Marquis of, 1577-1646 --  Early works to 1800.</term>
+               <term>Raglan Castle (Raglan, Monmouthshire) --  Siege, 1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159854:1" rendition="simple:additions"/>
+            <p>A LETTER FROM HIS EXCELLENCIES QVARTERS, <hi>OF A</hi> DISCOVERY in Sir THOMAS FAIRFAX His Army, the Enemies thereof; and a further reſolution of the Officers and Souldiers for the better peace and ſafety of the King<g ref="char:EOLhyphen"/>dome. With a Conference between His Excellency, and the Marqueſſe of <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>orceſter.</hi>
+            </p>
+            <p>Alſo, a full Relation of all the whole Proceedings at <hi>Ragland</hi> Caſtle; And a perfect Liſt of the Names of the Colonels, Majors, Captains, Lieutenants, and other Officers therein, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>The Marqueſſe of <hi>Worceſter,</hi>
+               </item>
+               <item>The Lord <hi>Charles,</hi>
+               </item>
+               <item>The Counteſſe of <hi>Glamorgan,</hi>
+               </item>
+               <item>The Lady <hi>Iones,</hi>
+               </item>
+               <item>Sir Philip <hi>Iones,</hi>
+               </item>
+               <item>Doctor Bayley,</item>
+               <item>Commiſſary <hi>Gwillam,</hi>
+               </item>
+               <item>4 Colonels, 4 Majors.</item>
+               <item>2 Lieutenant-Colonels,</item>
+               <item>22 Captains,</item>
+               <item>16 Lieutenants,</item>
+               <item>6 Cornets, 4 Enſignes,</item>
+               <item>4 Quarter-maſters,</item>
+               <item>52 Eſquires &amp; Gentlemen.</item>
+            </list>
+            <p>Printed by the Originall Copies, and Publiſhed according to Order of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Barnard Alſop,</hi> Auguſt 27. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159854:2"/>
+            <pb n="1" facs="tcp:159854:2"/>
+            <head>A Letter from his Excellencies Quarters of a Diſcovery in Sir <hi>Thomas Fairfax</hi> his Army, the Enemies thereof.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>RAgland</hi> Caſtle being ſo happily ſurren<g ref="char:EOLhyphen"/>dred, this I believe will be the laſt opportu<g ref="char:EOLhyphen"/>nity, that I ſhall have to preſent you with the Affaires of this unconquered, and untained Army in relation to the VVats of this Kingdome, which (through Gods Bleſſing) they have brought ſo neere unto a period.</p>
+            <p>But to our Intelligence, On VVedneſday laſt, <hi>Aug.</hi> 19. The Caſtle was ſurrendred to his Excel<g ref="char:EOLhyphen"/>lencie Sir <hi>Thomas Fairfax:</hi> The Enemy were no ſooner marched forth, but his Excellency entred the Caſtle, took a view of it, and had ſome conference with the Marqueſſe, and afterwards went that night
+<pb n="2" facs="tcp:159854:3"/>to <hi>Chepſtow,</hi> where hee was liberally entertained by the Committee, and came from thence yeſterday to <hi>Bath.</hi>
+            </p>
+            <p>The Caſtle of <hi>Ragland</hi> was as ſtrong a Piece (as I have ſeen) encompaſſed with a deepe Moat, beſides the River. There were in it neer five hundied Offi<g ref="char:EOLhyphen"/>cers, Gentlemen and Souldiers (a Liſt of the chiefe of which I have incloſed.) Divers of the Officers and Souldiers refuſed Paſſes, ſaying, That they could goe any where without Paſſes; ſo that many of them are not compriſed in the Liſt. Twenty Pieces of Ord<g ref="char:EOLhyphen"/>nance, not above three Barrels of Powder; but they had a Mill with which they could make a Barrel a day, which would ſupply them ſufficiently. There was in it, great ſtore of Corn and Malt in ſeverall Roomes; the true quantity wherof, I cannot give yon, and ther<g ref="char:EOLhyphen"/>fore will not trouble you with conjectures. There was alſo ſtore of VVine of all ſorts, and Beer; The Hor<g ref="char:EOLhyphen"/>ſes they had leftwere inconſiderable, and thoſe almoſt ſtarved for want of Hay, of which they had none, and not many Oates; ſo that the Horſes eat their halters for want of meat, and were tyed with chaines. Thoſe that marched forth had not the leaſt incivility offe<g ref="char:EOLhyphen"/>red to them by our Souldiers, who (as formerly du<g ref="char:EOLhyphen"/>ring this VVar) were very punctuall in obſerving the Articles. And now, let all the Enemies of this Army (for It hath many) produce any unworthy Action of<g ref="char:EOLhyphen"/>fered by It, ſince his Excellencies firſt taking the field: Nay, let them ſearch Hiſtories of precedent Ages, and produce an Army who have behaved them<g ref="char:EOLhyphen"/>ſelves with ſo much civility and fidelity as this hath done: And I am perſwaded, thar although ſome be<g ref="char:EOLhyphen"/>ing
+<pb n="3" facs="tcp:159854:3"/>ſwoln with Envie and Malice ſeek to blaſt Its re<g ref="char:EOLhyphen"/>putation, and to caſt a colour over Its Actions; yet <hi>they</hi> ſhall appeare as ſo many ungratefull Cataliues, when the fame and glory of <hi>this Army</hi> ſhall be preci<g ref="char:EOLhyphen"/>ous and illuſtrious in the eſteem of Poſterity, as theſe who have freed their Countrey from that Bondage and Slavery, which otherwiſe would have inevitably faln upon them. Then will the Parents tell their chil<g ref="char:EOLhyphen"/>dren the memorable Stories of this Army, and the wonderfull workings of God by this Arme of Fleſh, and how freely theſe their Noble Anceſtors hazar<g ref="char:EOLhyphen"/>ded themſelves for their Countries Peace and Free<g ref="char:EOLhyphen"/>dome. But I have held you too long with theſe undi<g ref="char:EOLhyphen"/>geſted Notions, And therefore crave leave to breake off, and ſubſcribe my ſelf</p>
+            <closer>
+               <dateline>Bath, <date>Auguſt 21. 1646.</date>
+               </dateline>
+               <signed>Your reall Friend, and Servant, <hi>VV. C.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="4" facs="tcp:159854:4"/>
+               <p>I had before forgotten to acquaint you with the great ſtore of Goods and rich Furniture, which we found in Rag<g ref="char:EOLhyphen"/>land Caſtle, which the Generall ordered, that faithfull and diſcreet Gentleman Mr. <hi>Herbert,</hi> Commiſſioner of the Army, Mr. <hi>Roger <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>illiams,</hi> and Major <hi>Teulidale,</hi> to Inven<g ref="char:EOLhyphen"/>trize, and in caſe any of the well-affected of the Countrey could lay juſt claime to any of them, either as plundered from them, or were forced to bring them in thither, they ſhould be reſtored unto them: Alſo Capt. <hi>Robert Blethen</hi> is appointed Governour.</p>
+               <closer>
+                  <dateline>Bath, <date>Aug. 22. 1646.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="list_of_military_officers">
+            <head>
+               <hi>A perfect Liſt of the Names of the Colonels, Majors, Captains, Lieutenants, and other Officers therein,</hi> viz.</head>
+            <list>
+               <item>THe Marq. of <hi>Worceſter.</hi>
+               </item>
+               <item>Lord <hi>Charley,</hi> Son to the ſaid Marqueſſe.</item>
+               <item>Counteſſe of <hi>Glamorgan,</hi> Daughter in Law to the Marqueſſe.</item>
+               <item>Lady <hi>Iones.</hi>
+               </item>
+               <item>Col. Radcliffe Gerard.</item>
+               <item>Col. Price:</item>
+               <item>Col. Morgan.</item>
+               <item>Col. Ralph Neile.</item>
+               <item>Doctor Rayley.</item>
+               <item>Major Morgan Price.</item>
+               <item>Major Charles Pritchard.</item>
+               <item>Major Lewis Thomas.</item>
+               <item>Lieut. col. Henry Somerſet.</item>
+               <item>Lieut. col. Charls Somerſet</item>
+               <item>Captain William Pue.</item>
+               <item>Captain William Bret.</item>
+               <item>Capt. Wil. Ingoldby.</item>
+               <item>Copt. John Morgan, <hi>junior.</hi>
+               </item>
+               <item>Capt. John Middlemore.</item>
+               <item>Capt. Valentine Progers.</item>
+               <item>Capt. Rob. Tipper.</item>
+               <item>Capt. John Morgan, <hi>ſenior.</hi>
+               </item>
+               <item>Capt. Wil. Pulton.</item>
+               <item>Capt. Anth. Garuam.</item>
+               <item>Capt. Dennis Carwen.</item>
+               <item>Capt. Wil. Andrew.</item>
+               <item>Capt. John Poyntz.</item>
+               <item>Capt. John Fant.</item>
+               <item>Capt. James Scudamore.</item>
+               <item>Capt. Hugh Connor.</item>
+               <item>Capt. Silveſtar Halſall.</item>
+               <item>Capt. Thomas Cowley.</item>
+               <item>Capt. John Jones.</item>
+               <pb n="5" facs="tcp:159854:4"/>
+               <item> Capt. John Fitz-James.</item>
+               <item>Capt. Richard Yeoman.</item>
+               <item>Capt. John Lukar.</item>
+               <item>Lieutenant Progers.</item>
+               <item>Lieut. Wil. Prichard.</item>
+               <item>Lieut. John Peirſon.</item>
+               <item>Lieut. Rowland Jones.</item>
+               <item>Lieut. Swinglehurſt.</item>
+               <item>Lieut. Tho. Cole.</item>
+               <item>Lieut. Blunt.</item>
+               <item>Lieut. Wright.</item>
+               <item>Lieut. Bryan.</item>
+               <item>Lieut. Collins.</item>
+               <item>Lieut. Williams.</item>
+               <item>Lieut. Cory.</item>
+               <item>Lieut. Powel.</item>
+               <item>Lieut. Lewis.</item>
+               <item>Lieut. Rudſon.</item>
+               <item>Lieut. Ambroſe.</item>
+               <item>Cornet Henry Maddack.</item>
+               <item>cornet Edward Stanley.</item>
+               <item>cornet John Ailworth.</item>
+               <item>cornet Wil. Water.</item>
+               <item>cornet John Conwel.</item>
+               <item>cornet John Goulin.</item>
+               <item>Enſign George Elliot.</item>
+               <item>Enſign Halſall.</item>
+               <item>Enſign Price.</item>
+               <item>Enſign Read.</item>
+               <item>Quarterm. Pritchard.</item>
+               <item>Quarterm. Hore.</item>
+               <item>Quarterm. Hugle.</item>
+               <item>Quarterm. Hangſton.</item>
+               <item>Quarterm. Artler.</item>
+               <item>Commiſſary Wil. Gwillin</item>
+               <item>Mr. Lewis Scabard, <hi>Chyr.</hi>
+               </item>
+               <item>Mr. John Powel. <hi>Chyr.</hi>
+               </item>
+               <item>Wil. Moor Eſquire.</item>
+               <item>Mr. Wil. Poiskin.</item>
+               <item>Mr. Io: Thomas, <hi>alias</hi> Powel.</item>
+               <item>Mr. Thomas Powel.</item>
+               <item>Mr. Robert White.</item>
+               <item>Mr. Iohn Glaſcock.</item>
+               <item>Mr. Iohn Perſhall.</item>
+               <item>Mr. Henry Wall.</item>
+               <item>Mr. Iohn Smith.</item>
+               <item>Mr. Wil. Dandy.</item>
+               <item>Mr. Chriſtopher Mercalf.</item>
+               <item>Mr. Matth. Aynworth.</item>
+               <item>Mr. Thomas Philips.</item>
+               <item>Mr. Bened. Seaborn.</item>
+               <item>Mr. George Seaborn.</item>
+               <item>Mr. Henry Fenwick.</item>
+               <item>Mr. John Fenwick.</item>
+               <item>Mr. Wil. Jones.</item>
+               <item>Mr. Thomas Chanock.</item>
+               <item>Mr. James Powel.</item>
+               <item>Mr. Iohn Allanford.</item>
+               <item>Mr. Valentine Smith,</item>
+               <item>Mr. Thomas Owen.</item>
+               <item>Mr. Charles Gwyn.</item>
+               <item>Mr. Humphry Evans.</item>
+               <item>Mr. Richard Watkins.</item>
+               <item>Mr. Edw: Watkins.</item>
+               <item>Mr. Tho: Powel,</item>
+               <item>Mr. Richard Crump.</item>
+               <item>Mr. Tho: Davis.</item>
+               <item>Mr. Richard Davis.</item>
+               <item>Mr. Iohn Andrewes.</item>
+               <item>Mr. Wil. Morgan</item>
+               <item>Mr. Charles Clark.</item>
+               <item>Mr. Iohn Hedley.</item>
+               <item>Mr. Tho: Watkins.</item>
+               <item>Mr. Henry Williams.</item>
+               <pb n="6" facs="tcp:159854:5"/>
+               <item> 
+                  <hi>Mr.</hi> Richard Blunt.</item>
+               <item>
+                  <hi>Mr.</hi> Anthony Albot.</item>
+               <item>
+                  <hi>Mr.</hi> Tho: Bladwyn.</item>
+               <item>
+                  <hi>Mr.</hi> Holland.</item>
+               <item>
+                  <hi>Mr.</hi> Tho: Price.</item>
+               <item>
+                  <hi>Mr.</hi> Robert Thomas.</item>
+               <item>
+                  <hi>Mr.</hi> George Harding.</item>
+               <item>
+                  <hi>Mr.</hi> Humphrey Price.</item>
+               <item>
+                  <hi>Mr.</hi> William Gwyn.</item>
+               <item>
+                  <hi>Mr.</hi> Francis Crathorn.</item>
+               <item>
+                  <hi>Mr.</hi> David Matthewes.</item>
+               <item>
+                  <hi>Mr.</hi> Luke Mill.</item>
+               <item>
+                  <hi>Mr.</hi> Henry Harris.</item>
+               <item>
+                  <hi>Mr.</hi> Richard Williams.</item>
+               <item>
+                  <hi>Mr.</hi> Robert Frampton.</item>
+               <item>
+                  <hi>Mr.</hi> William Iames.</item>
+               <item>
+                  <hi>Mr.</hi> George Watkins.</item>
+               <item>William Watkins, <hi>Eſquire.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Iohn Wharton.</item>
+               <item>
+                  <hi>Mr.</hi> William Hill.</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Lee.</item>
+               <item>
+                  <hi>Mr.</hi> Thomas Arick.</item>
+               <item>
+                  <hi>Mr.</hi> Iames Iones.</item>
+               <item>
+                  <hi>Mr.</hi> Richard Williams.</item>
+               <item>
+                  <hi>Mr.</hi> Philip Williams.</item>
+               <item>
+                  <hi>Mr.</hi> William Moor.</item>
+               <item>
+                  <hi>Mr.</hi> Iohn Robinſon.</item>
+               <item>Iohn Iones <hi>Eſquire.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Iohn Risdon.</item>
+               <item>
+                  <hi>Corporall</hi> Peter Bryan.</item>
+               <item>
+                  <hi>Corporal</hi> Iames Lewis.</item>
+               <item>
+                  <hi>Corporal</hi> Iames Progers.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
